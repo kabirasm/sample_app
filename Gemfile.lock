@@ -95,7 +95,7 @@ PLATFORMS
 
 DEPENDENCIES
   annotate-models (= 1.0.4)
-  factory_girl_rails (= 1.0)
+  factory_girl_rails
   rails (= 3.0.3)
   rspec (= 2.3.0)
   rspec-rails (= 2.3.0)
